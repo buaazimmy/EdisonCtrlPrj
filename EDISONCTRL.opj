@@ -1,0 +1,64 @@
+(ExpressProject "EDISONCTRL"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\power_mnt.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\edisonctrl.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\edisonctrl.dsn")
+      (Path "Design Resources" ".\edisonctrl.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\edisonctrl.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\power_mnt.olb")
+      (Select "Design Resources" ".\edisonctrl.dsn" "SCHEMATIC1"
+         "1. POWER SUPPLIES"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 947"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 145 1270 145 658")
+        (Scroll "-288 -2")
+        (Zoom "61")
+        (Occurrence "/"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRL\EDISONCTRL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "1. POWER SUPPLIES"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 29 1017 29 546")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRL\EDISONCTRL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3. USB_OTG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 87 1075 87 604")
+        (Scroll "0 0")
+        (Zoom "61")
+        (Occurrence "/"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRL\EDISONCTRL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "2. I/O CONNECTIONS")))
+  (MPSSessionName "Zimmy")
+  (PartMRUSelector))
