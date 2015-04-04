@@ -19,46 +19,65 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\edisonctrl.dsn")
       (Path "Design Resources" ".\edisonctrl.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\edisonctrl.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\power_mnt.olb")
-      (Select "Design Resources" ".\edisonctrl.dsn" "SCHEMATIC1"
-         "1. POWER SUPPLIES"))
+      (Select "Design Resources" ".\edisonctrl.dsn" "SCHEMATIC1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 947"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 339 0 937"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 145 1270 145 658")
-        (Scroll "-288 -2")
-        (Zoom "61")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1186 50 529")
+        (Scroll "0 338")
+        (Zoom "120")
         (Occurrence "/"))
-      (Path "H:\CODES\HARDWARE\EDISONCTRL\EDISONCTRL.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "1. POWER SUPPLIES"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 29 1017 29 546")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "H:\CODES\HARDWARE\EDISONCTRL\EDISONCTRL.DSN")
+      (Path "C:\USERS\ADMINISTRATOR\DESKTOP\EDISONCTRLPRJ\EDISONCTRL.DSN")
       (Schematic "SCHEMATIC1")
       (Page "3. USB_OTG"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 87 1075 87 604")
+        (Placement "44 2 3 -1 -1 -8 -30 0 1136 0 514")
         (Scroll "0 0")
-        (Zoom "61")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "H:\CODES\HARDWARE\EDISONCTRL\EDISONCTRL.DSN")
+      (Path "C:\USERS\ADMINISTRATOR\DESKTOP\EDISONCTRLPRJ\EDISONCTRL.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "2. I/O CONNECTIONS")))
-  (MPSSessionName "Zimmy")
-  (PartMRUSelector))
+      (Page "1. POWER SUPPLIES")))
+  (MPSSessionName "Administrator")
+  (PartMRUSelector
+    (XSTR,BSS138,FET,NCH,SOT23
+      (FullPartName "XSTR,BSS138,FET,NCH,SOT23.Normal")
+      (LibraryName "C:\WORKING\UMG_LIB\UMG_LIB.OLB")
+      (DeviceIndex "0"))
+    (TPS62133_0
+      (FullPartName "TPS62133_0.Normal")
+      (LibraryName
+         "C:\WORKING\MERRIFIELD\MERRIFIELD_PLATFORM_FFD_2P5_NO_CWS\SCHEMATICS\MERRIFIELD_EDISON_ARDUINO_3_17.DSN")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\Administrator\Desktop\EdisonCtrlPrj")
+  (Folder "Simulation Resources"
+    (Folder "Indesign"
+      (File ".\indesign\cds.lib"
+        (Type "Report")
+        (DisplayName ".\Indesign\cds.lib"))
+      (File ".\indesign\hdl.var"
+        (Type "Report")
+        (DisplayName ".\Indesign\hdl.var"))
+      (File ".\indesign\edisonctrl.vhd"
+        (Type "VHDL Source")
+        (DisplayName ".\Indesign\EDISONCTRL.vhd"))
+      (File ".\indesign\stubi.vhd"
+        (Type "VHDL Source")
+        (DisplayName ".\Indesign\StubI.vhd"))
+      (File ".\indesign\sdf.cmd"
+        (Type "Report")
+        (DisplayName ".\Indesign\sdf.cmd"))
+      (File ".\indesign\detail.log"
+        (Type "Report")
+        (DisplayName ".\Indesign\detail.log")))))
