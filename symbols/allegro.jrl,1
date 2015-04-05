@@ -1,0 +1,128 @@
+\t (00:51:24) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:51:24)     Journal start - Sun Apr 05 17:09:23 2015
+\t (00:51:24)         Host=ZIM User=Zimmy Pid=13740 CPUs=8
+\t (00:51:24) 
+\d (00:51:24) Database opened: H:/Codes/Hardware/EdisonCtrlPrj/symbols/CON2.DRA
+\i (00:51:24) generaledit 
+\i (00:51:25) save 
+\i (00:51:26) fillin yes 
+\t (00:51:27) Symbol 'con2.psm' created.
+\i (00:51:27) generaledit 
+\i (00:51:27) save 
+\i (00:51:28) fillin yes 
+\t (00:51:29) Symbol 'con2.psm' created.
+\i (00:51:29) generaledit 
+\i (00:51:30) save 
+\i (00:51:32) fillin yes 
+\t (00:51:32) Symbol 'con2.psm' created.
+\i (00:51:32) generaledit 
+\i (00:51:40) open 
+\i (00:51:44) fillin "CON2.DRA"
+\t (00:51:44) Opening existing design...
+\i (00:51:44) trapsize 63
+\d (00:51:44) Database opened: H:/Codes/Hardware/EdisonCtrlPrj/symbols/CON2.DRA
+\i (00:51:44) generaledit 
+\i (00:51:51) define property 
+\i (00:51:51) generaledit 
+\i (00:51:56) edit parts 
+\i (00:52:00) setwindow form.fpbomedit
+\i (00:52:00) FORM fpbomedit cancel  
+\i (00:52:00) setwindow pcb
+\i (00:52:00) generaledit 
+\i (00:52:10) termination package 
+\i (00:52:12) fillin confirm
+\i (00:52:14) setwindow form.fptermpack
+\i (00:52:14) FORM fptermpack cancel  
+\i (00:52:14) setwindow pcb
+\i (00:52:14) generaledit 
+\i (00:52:32) property edit 
+\t (00:52:32) Adjust find filter then select an element or group of elements.
+\i (00:52:36) net_properties 
+\w (00:52:36) Can not launch Constraint Manager while a command is active.
+\i (00:52:39) fillin confirm
+\i (00:52:40) pick grid -0.530 -0.766
+\t (00:52:40) last pick:  -0.500  -0.800
+\i (00:52:42) setwindow text
+\i (00:52:42) close 
+\i (00:52:43) setwindow form.editprop1
+\i (00:52:43) FORM editprop1 properties Comment 
+\i (00:52:46) FORM editprop1 properties Vias_Allowed 
+\i (00:52:47) FORM editprop1 properties Comment 
+\i (00:52:48) FORM editprop1 properties Clip_Drawing 
+\i (00:52:51) setwindow pcb
+\i (00:52:51) pick grid -0.822 3.165
+\t (00:52:51) last pick:  -0.800  3.200
+\i (00:52:51) drag_start grid -3.307 3.457
+\i (00:52:52) drag_stop 6.812 -4.468
+\i (00:52:54) setwindow text
+\i (00:52:54) close 
+\i (00:52:55) setwindow form.editprop1
+\i (00:52:55) FORM editprop1 properties Idf_Owner 
+\i (00:52:55) FORM editprop1 properties Idx_Owner 
+\i (00:52:56) FORM editprop1 properties Comment 
+\i (00:53:04) setwindow pcb
+\i (00:53:04) pick grid -2.305 -4.861
+\t (00:53:04) last pick:  -2.300  -4.900
+\i (00:53:04) Esc 
+\i (00:53:05) prepopup -1.950 -4.684
+\i (00:53:06) cancel 
+\i (00:53:06) generaledit 
+\i (00:53:06) pick grid -2.901 -4.253
+\t (00:53:06) last pick:  -2.900  -4.300
+\i (00:53:07) pick grid -3.523 -4.088
+\t (00:53:07) last pick:  -3.500  -4.100
+\i (00:53:15) net_properties 
+\i (00:53:15) setwindow cmgr
+\i (00:53:15) cm newView ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:53:15) setwindow pcb
+\i (00:53:15) generaledit 
+\i (00:53:17) pick grid 0.104 -0.969
+\t (00:53:17) last pick:  0.100  -1.000
+\i (00:53:17) pick grid 0.003 -0.018
+\t (00:53:17) last pick:  0.000  0.000
+\i (00:53:24) setwindow cmgr
+\i (00:53:24) cm select ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:53:24) cm select ( worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:53:25) cm newView ( worksheet 53:Electrical "1:Electrical Constraint Set" "2:Signal Integrity" "3:Reflection/Edge Distortions" )
+\i (00:53:27) cm select tab 4:Xtalk/SSN
+\i (00:53:27) cm newView ( worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring )
+\i (00:53:27) cm select ( worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring )
+\i (00:53:32) cm newView ( worksheet 53:Electrical 66:Net "15:Signal Integrity" "16:Electrical Properties" )
+\i (00:53:34) cm select ( worksheet 53:Electrical 66:Net "15:Signal Integrity" "16:Electrical Properties" )
+\i (00:53:34) cm select ( worksheet 53:Electrical 66:Net "15:Signal Integrity" "16:Electrical Properties" )
+\i (00:53:34) cm select ( worksheet 53:Electrical 66:Net "15:Signal Integrity" "16:Electrical Properties" )
+\i (00:53:35) cm newView ( worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "58:All Layers" )
+\i (00:53:36) cm newView ( worksheet 55:Physical "56:Physical Constraint Set" "59:By Layer" "60:By Layer" )
+\i (00:53:37) cm select ( worksheet 55:Physical "56:Physical Constraint Set" "59:By Layer" "60:By Layer" )
+\i (00:53:37) cm select ( worksheet 55:Physical "56:Physical Constraint Set" "59:By Layer" "60:By Layer" )
+\i (00:53:37) cm select ( worksheet 55:Physical "56:Physical Constraint Set" "59:By Layer" "60:By Layer" )
+\i (00:53:39) cm select ( worksheet 55:Physical "56:Physical Constraint Set" "59:By Layer" "60:By Layer" )
+\i (00:53:40) cm select ( worksheet 55:Physical "56:Physical Constraint Set" "59:By Layer" "60:By Layer" )
+\i (00:53:40) cm select ( worksheet 55:Physical "56:Physical Constraint Set" "59:By Layer" "60:By Layer" )
+\i (00:53:40) cm select ( worksheet 55:Physical "56:Physical Constraint Set" "59:By Layer" "60:By Layer" )
+\i (00:53:41) cm select ( worksheet 55:Physical "56:Physical Constraint Set" "59:By Layer" "60:By Layer" )
+\i (00:53:41) cm select ( worksheet 55:Physical "56:Physical Constraint Set" "59:By Layer" "60:By Layer" )
+\i (00:53:43) cm newView ( worksheet 144:Properties 14:Net "67:Electrical Properties" "73:Electrical Properties" )
+\i (00:53:44) cm select ( frame ( workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:53:45) cm newView ( worksheet 144:Properties 14:Net "219:Ratsnest Bundle Properties" "220:Ratsnest Bundle Properties" )
+\i (00:53:46) cm newView ( worksheet 144:Properties 38:Component "39:Component Properties" 40:General )
+\i (00:53:47) cm select tab 154:Thermal
+\i (00:53:48) cm select tab 147:Swapping
+\i (00:53:48) cm select tab 149:Reuse
+\i (00:53:49) cm select ( worksheet 144:Properties 38:Component "39:Component Properties" 149:Reuse )
+\i (00:53:49) cm newView ( worksheet 144:Properties 38:Component "41:Pin Properties" 42:General )
+\i (00:53:50) cm select tab 159:Manufacturing
+\i (00:53:50) cm select tab 153:Shapes
+\i (00:53:54) cm exit
+\i (00:53:54) setwindow pcb
+\i (00:53:54) pick grid 6.533 1.288
+\t (00:53:54) last pick:  6.500  1.300
+\i (00:54:00) open 
+\e (00:54:00) Do you want to save the changes you made to CON2.DRA?
+\i (00:54:04) fillin yes 
+\t (00:54:04) Symbol 'con2.psm' created.
+\i (00:54:11) fillin "H:\Codes\Hardware\EdisonCtrlPrj\allegro\EDISONCTRL.brd"
+\i (00:54:11) cd "H:\Codes\Hardware\EdisonCtrlPrj\allegro"
+\t (00:54:11) Opening existing design...
+\i (00:54:11) trapsize 1996
+\t (00:54:11)     Journal end - Sun Apr 05 17:12:10 2015

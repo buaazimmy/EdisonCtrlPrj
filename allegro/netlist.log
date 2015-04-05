@@ -1,0 +1,19 @@
+{ Using PSTWRITER 16.6.0 d001Apr-05-2015 at 17:00:46 }
+
+#1 WARNING(ORCAP-36030): Value of Property "ERROR(ORCAP-36079): Device" missing from instance R4: SCHEMATIC1, 1. POWER SUPPLIES (134.62, 127.00).
+#2 WARNING(ORCAP-36006): Part Name "RESD,0201,1%,1/20W,562_SMR0402_576_1%_A93548-403" is renamed to "RESD,0201,1%,1/20W,562_SMR0402_".
+#3 WARNING(ORCAP-36030): Value of Property "ERROR(ORCAP-36079): Device" missing from instance R8: SCHEMATIC1, 1. POWER SUPPLIES (342.90, 176.53).
+#4 WARNING(ORCAP-36030): Value of Property "ERROR(ORCAP-36079): Device" missing from instance U2: SCHEMATIC1, 1. POWER SUPPLIES (255.27, 130.81).
+#5 WARNING(ORCAP-36006): Part Name "IC,BQ24232,QFN16,USB_CHGR_LCC16_3X3MM_EP61_BQ24074_H52571-001" is renamed to "IC,BQ24232,QFN16,USB_CHGR_LCC16".
+#6 WARNING(ORCAP-36030): Value of Property "ERROR(ORCAP-36079): Device" missing from instance U3: SCHEMATIC1, 3. USB_OTG (121.92, 38.10).
+#7 WARNING(ORCAP-36006): Part Name "IC,MIC2039,USBPWRSWTCH_0_DFN6P_65M_2X2M_MIC2039_H40907-001" is renamed to "IC,MIC2039,USBPWRSWTCH_0_DFN6P_".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\CODES\HARDWARE\EDISONCTRLPRJ\allegro/pstchip.dat
+
+Loading... H:\CODES\HARDWARE\EDISONCTRLPRJ\allegro/pstchip.dat
+
+Loading... H:\CODES\HARDWARE\EDISONCTRLPRJ\allegro/pstxprt.dat
+
+Loading... H:\CODES\HARDWARE\EDISONCTRLPRJ\allegro/pstxnet.dat
+packaging the design view...

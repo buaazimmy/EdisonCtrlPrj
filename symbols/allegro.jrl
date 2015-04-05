@@ -1,0 +1,144 @@
+\t (00:59:05) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:59:05)     Journal start - Sun Apr 05 17:17:04 2015
+\t (00:59:05)         Host=ZIM User=Zimmy Pid=13740 CPUs=8
+\t (00:59:05) 
+\d (00:59:05) Database opened: H:/Codes/Hardware/EdisonCtrlPrj/symbols/CON2.DRA
+\i (00:59:05) generaledit 
+\i (00:59:06) pick grid -3.636 0.378
+\t (00:59:06) last pick:  -3.600  0.400
+\i (00:59:12) pick grid -3.611 2.576
+\t (00:59:12) last pick:  -3.600  2.600
+\i (00:59:54) prmed 
+\i (01:00:34) setwindow form.prmedit
+\i (01:00:34) FORM prmedit done  
+\i (01:00:34) setwindow pcb
+\i (01:00:34) generaledit 
+\i (01:00:34) zoom out 1 
+\i (01:00:34) setwindow pcb
+\i (01:00:34) zoom out 5.829 -1.082
+\i (01:00:34) trapsize 123
+\i (01:00:34) zoom out 1 
+\i (01:00:34) setwindow pcb
+\i (01:00:34) zoom out 8.709 -1.083
+\t (01:00:34) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:00:34) trapsize 246
+\i (01:00:34) zoom out 1 
+\i (01:00:34) setwindow pcb
+\i (01:00:34) zoom out 31.418 -1.082
+\i (01:00:34) trapsize 491
+\i (01:00:35) zoom in 1 
+\i (01:00:35) setwindow pcb
+\i (01:00:35) zoom in 76.837 7.870
+\i (01:00:35) trapsize 246
+\i (01:00:35) zoom in 1 
+\i (01:00:35) setwindow pcb
+\i (01:00:35) zoom in 76.837 7.870
+\i (01:00:35) trapsize 123
+\i (01:00:35) zoom out 1 
+\i (01:00:35) setwindow pcb
+\i (01:00:35) zoom out 60.290 2.813
+\i (01:00:35) trapsize 246
+\i (01:00:35) zoom out 1 
+\i (01:00:35) setwindow pcb
+\i (01:00:35) zoom out 60.536 2.813
+\i (01:00:35) trapsize 491
+\i (01:00:36) zoom out 1 
+\i (01:00:36) setwindow pcb
+\i (01:00:36) zoom out 62.892 2.322
+\t (01:00:36) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (01:00:36) trapsize 982
+\i (01:00:36) zoom out 1 
+\i (01:00:36) setwindow pcb
+\i (01:00:36) zoom out 68.196 4.138
+\i (01:00:36) trapsize 1964
+\i (01:00:36) zoom out 1 
+\i (01:00:36) setwindow pcb
+\i (01:00:36) zoom out 106.592 40.276
+\t (01:00:36) Grids are drawn 6.400, 6.400 apart for enhanced viewability.
+\i (01:00:36) trapsize 3928
+\i (01:00:37) zoom in 1 
+\i (01:00:37) setwindow pcb
+\i (01:00:37) zoom in 0.141 6.495
+\t (01:00:37) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (01:00:37) trapsize 1964
+\i (01:00:37) zoom in 1 
+\i (01:00:37) setwindow pcb
+\i (01:00:37) zoom in 0.534 6.103
+\i (01:00:37) trapsize 982
+\i (01:00:37) zoom in 1 
+\i (01:00:37) setwindow pcb
+\i (01:00:37) zoom in 1.124 0.604
+\t (01:00:37) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:00:37) trapsize 491
+\i (01:00:37) zoom in 1 
+\i (01:00:37) setwindow pcb
+\i (01:00:37) zoom in 1.124 0.408
+\i (01:00:37) trapsize 246
+\i (01:00:38) zoom in 1 
+\i (01:00:38) setwindow pcb
+\i (01:00:38) zoom in 1.173 0.997
+\i (01:00:38) trapsize 123
+\i (01:00:38) roam start
+\i (01:00:38) roam x -48
+\i (01:00:38) roam y 16
+\i (01:00:38) roam x -16
+\i (01:00:38) roam y 16
+\i (01:00:38) roam x -32
+\i (01:00:38) roam y 32
+\i (01:00:39) roam x -32
+\i (01:00:39) roam y 48
+\i (01:00:39) roam x -32
+\i (01:00:39) roam y 16
+\i (01:00:39) roam x -16
+\i (01:00:39) roam y 48
+\i (01:00:39) roam x -32
+\i (01:00:39) roam y 32
+\i (01:00:39) roam x -32
+\i (01:00:39) roam y 32
+\i (01:00:39) roam x -16
+\i (01:00:39) roam y 32
+\i (01:00:39) roam end
+\i (01:00:55) pick grid -3.639 9.833
+\t (01:00:55) last pick:  -3.600  9.800
+\i (01:01:45) place manual 
+\i (01:01:46) setwindow form.plc_manual
+\i (01:01:46) FORM plc_manual cancel  
+\i (01:01:46) setwindow pcb
+\i (01:01:46) generaledit 
+\i (01:01:47) pick grid -4.891 10.766
+\t (01:01:47) last pick:  -4.900  10.800
+\i (01:02:01) pick grid -3.222 10.717
+\t (01:02:01) last pick:  -3.200  10.700
+\i (01:02:04) pick grid 0.780 9.588
+\t (01:02:04) last pick:  0.800  9.600
+\i (01:02:12) shape add rect 
+\i (01:02:13) pick grid 1.983 7.550
+\t (01:02:13) last pick:  2.000  7.600
+\i (01:02:13) pick grid 8.857 3.745
+\t (01:02:13) last pick:  8.900  3.700
+\i (01:02:14) prepopup 11.582 4.113
+\i (01:02:15) pick grid 11.238 3.426
+\t (01:02:15) last pick:  11.200  3.400
+\i (01:02:15) prepopup 12.392 3.450
+\i (01:02:16) cancel 
+\i (01:02:16) generaledit 
+\i (01:02:18) undo 
+\i (01:02:18) trapsize 123
+\i (01:02:18) generaledit 
+\i (01:02:19) save 
+\i (01:02:20) fillin yes 
+\t (01:02:21) Symbol 'con2.psm' created.
+\i (01:02:21) generaledit 
+\i (01:03:09) enved 
+\i (01:03:10) generaledit 
+\i (01:03:13) setwindow form.prfedit
+\i (01:03:13) FORM prfedit psmpath  
+\i (01:04:10) FORM prfedit apply  
+\i (01:04:12) FORM prfedit done  
+\i (01:04:14) setwindow pcb
+\i (01:04:14) open 
+\i (01:04:21) fillin "H:\Codes\Hardware\EdisonCtrlPrj\allegro\EDISONCTRL.brd"
+\i (01:04:21) cd "H:\Codes\Hardware\EdisonCtrlPrj\allegro"
+\t (01:04:22) Opening existing design...
+\i (01:04:22) trapsize 966
+\t (01:04:22)     Journal end - Sun Apr 05 17:22:21 2015

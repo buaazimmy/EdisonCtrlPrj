@@ -1,0 +1,99 @@
+\t (01:04:22) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (01:04:22)     Journal start - Sun Apr 05 17:22:21 2015
+\t (01:04:22)         Host=ZIM User=Zimmy Pid=13740 CPUs=8
+\t (01:04:22) 
+\d (01:04:22) Database opened: H:/Codes/Hardware/EdisonCtrlPrj/allegro/EDISONCTRL.brd
+\i (01:04:22) generaledit 
+\i (01:04:24) quickplace 
+\i (01:04:26) setwindow form.quickplc
+\i (01:04:26) FORM quickplc place  
+\w (01:04:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (01:04:26) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\w (01:04:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (01:04:26) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\e (01:04:26) Component(s) could not be placed.  See logfile for errors.
+\i (01:04:31) FORM quickplc done  
+\i (01:04:31) setwindow pcb
+\i (01:04:31) generaledit 
+\i (01:04:32) zoom out 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom out -429.68 -100.46
+\i (01:04:32) trapsize 1932
+\i (01:04:32) zoom out 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom out -406.50 -77.28
+\i (01:04:32) trapsize 3864
+\i (01:04:32) zoom in 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom in -1953.02 -927.50
+\i (01:04:32) trapsize 1932
+\i (01:04:32) zoom in 1 
+\i (01:04:32) setwindow pcb
+\i (01:04:32) zoom in -1551.18 -970.00
+\i (01:04:32) trapsize 966
+\i (01:04:33) zoom out 1 
+\i (01:04:33) setwindow pcb
+\i (01:04:33) zoom out -451.93 -463.84
+\i (01:04:33) trapsize 1932
+\i (01:04:33) zoom out 1 
+\i (01:04:33) setwindow pcb
+\i (01:04:33) zoom out -448.05 -459.97
+\i (01:04:33) trapsize 3864
+\i (01:04:33) zoom in 1 
+\i (01:04:33) setwindow pcb
+\i (01:04:33) zoom in 63.89 189.15
+\i (01:04:33) trapsize 1932
+\i (01:04:33) zoom in 1 
+\i (01:04:33) setwindow pcb
+\i (01:04:33) zoom in 52.30 200.74
+\i (01:04:33) trapsize 966
+\i (01:04:37) quickplace 
+\i (01:04:38) setwindow form.quickplc
+\i (01:04:38) FORM quickplc done  
+\i (01:04:38) setwindow pcb
+\i (01:04:38) generaledit 
+\i (01:04:40) quickplace 
+\i (01:04:41) setwindow form.quickplc
+\i (01:04:41) FORM quickplc place  
+\w (01:04:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (01:04:41) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\w (01:04:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (01:04:41) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\e (01:04:41) Component(s) could not be placed.  See logfile for errors.
+\i (01:04:42) FORM quickplc viewlog  
+\i (01:04:43) setwindow pcb
+\i (01:04:43) zoom out 1 
+\i (01:04:43) setwindow pcb
+\i (01:04:43) zoom out 454.14 51.98
+\i (01:04:43) trapsize 1932
+\i (01:04:43) zoom out 1 
+\i (01:04:43) setwindow pcb
+\i (01:04:43) zoom out 454.15 51.99
+\i (01:04:43) trapsize 3864
+\i (01:04:43) zoom out 1 
+\i (01:04:43) setwindow pcb
+\i (01:04:43) zoom out 1648.05 51.98
+\i (01:04:43) trapsize 5221
+\i (01:04:43) zoom out 1 
+\i (01:04:43) setwindow pcb
+\i (01:04:43) zoom out 4159.09 -10.44
+\i (01:04:43) trapsize 5221
+\i (01:04:43) zoom in 1 
+\i (01:04:43) setwindow pcb
+\i (01:04:43) zoom in 4159.09 -10.44
+\i (01:04:43) trapsize 2611
+\i (01:04:43) zoom in 1 
+\i (01:04:43) setwindow pcb
+\i (01:04:43) zoom in 670.46 -10.44
+\i (01:04:43) trapsize 1305
+\i (01:04:50) setwindow text
+\i (01:04:50) close 
+\i (01:04:51) setwindow form.quickplc
+\i (01:04:51) FORM quickplc cancel  
+\i (01:04:51) setwindow pcb
+\i (01:04:51) generaledit 
+\i (01:04:52) save 
+\i (01:04:54) fillin yes 
+\i (01:04:54) generaledit 
+\i (01:04:57) exit 
+\t (01:04:57)     Journal end - Sun Apr 05 17:22:56 2015

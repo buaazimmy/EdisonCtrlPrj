@@ -1,0 +1,201 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : EDISONCTRL.brd                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Apr 05 17:12:44 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'H:/Codes/Hardware/EdisonCtrlPrj/allegro';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'H:/Codes/Hardware/EdisonCtrlPrj/allegro/EDISONCTRL.brd';
+NEW_BOARD_NAME 'H:/Codes/Hardware/EdisonCtrlPrj/allegro/EDISONCTRL.brd';
+
+CmdLine: netrev -$ -i H:/Codes/Hardware/EdisonCtrlPrj/allegro -y 1 H:/Codes/Hardware/EdisonCtrlPrj/allegro/#Taaaapg13740.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read H:/Codes/Hardware/EdisonCtrlPrj/allegro/pstchip.dat 
+   Finished reading H:/Codes/Hardware/EdisonCtrlPrj/allegro/pstchip.dat (00:00:00.02)
+Starting to read H:/Codes/Hardware/EdisonCtrlPrj/allegro/pstxprt.dat 
+   Finished reading H:/Codes/Hardware/EdisonCtrlPrj/allegro/pstxprt.dat (00:00:00.00)
+Starting to read H:/Codes/Hardware/EdisonCtrlPrj/allegro/pstxnet.dat 
+   Finished reading H:/Codes/Hardware/EdisonCtrlPrj/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'CON2' for device 'E81838-001': WARNING(SPMHUT-127): Could not find padstack P1_5D1_0S. [help]
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMC0805' for device 'G27061-002' not found in PSMPATH or must be "dbdoctor"ed.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMC0603_HI_VALUE' for device '602433-081' not found in PSMPATH or must be "dbdoctor"ed.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'C0201' for device 'CAP_C0201_0.1UF_C83410-014' not found in PSMPATH or must be "dbdoctor"ed.
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMC0201' for device 'C83410-017' not found in PSMPATH or must be "dbdoctor"ed.
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMC0402' for device 'G21049-001' not found in PSMPATH or must be "dbdoctor"ed.
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMC0603_HI_VALUE' for device '602433-091' not found in PSMPATH or must be "dbdoctor"ed.
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SCR_27X17MA' for device 'H33384-001' not found in PSMPATH or must be "dbdoctor"ed.
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOD123_67X106' for device 'E58800-001' not found in PSMPATH or must be "dbdoctor"ed.
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMLED0402' for device 'E54986-003' not found in PSMPATH or must be "dbdoctor"ed.
+
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '2X35_P4MM_BTB_AXT_SKT_MB' for device 'H42241-001' not found in PSMPATH or must be "dbdoctor"ed.
+
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CONN4_D23040001' for device 'D23040-001' not found in PSMPATH or must be "dbdoctor"ed.
+
+#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SML0805' for device 'G95926-001' not found in PSMPATH or must be "dbdoctor"ed.
+
+#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMR0402' for device 'C65288-008' not found in PSMPATH or must be "dbdoctor"ed.
+
+#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMR0201' for device 'C80792-014' not found in PSMPATH or must be "dbdoctor"ed.
+
+#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMR0201' for device 'C48657-118' not found in PSMPATH or must be "dbdoctor"ed.
+
+#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMR0201' for device 'C80792-002' not found in PSMPATH or must be "dbdoctor"ed.
+
+#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMR0201' for device 'C80792-046' not found in PSMPATH or must be "dbdoctor"ed.
+
+#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMR0201' for device 'C80792-011' not found in PSMPATH or must be "dbdoctor"ed.
+
+#20  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMR0201' for device 'C48657-178' not found in PSMPATH or must be "dbdoctor"ed.
+
+#21  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'R0201' for device 'R_0_R0201_0R_C80792-009' not found in PSMPATH or must be "dbdoctor"ed.
+
+#22  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMR0402' for device 'RESD,0201,1%,1/20W,562_SMR0402_' not found in PSMPATH or must be "dbdoctor"ed.
+
+#23  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'R0201' for device 'R0603_R0201_1.62K_C48657-075' not found in PSMPATH or must be "dbdoctor"ed.
+
+#24  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMR0201' for device 'C48657-013' not found in PSMPATH or must be "dbdoctor"ed.
+
+#25  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SSW2RPB' for device 'D90553-001' not found in PSMPATH or must be "dbdoctor"ed.
+
+#26  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LCC16_3X3MM_EP61' for device 'IC,BQ24232,QFN16,USB_CHGR_LCC16' not found in PSMPATH or must be "dbdoctor"ed.
+
+#27  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DFN6P_65M_2X2M' for device 'IC,MIC2039,USBPWRSWTCH_0_DFN6P_' not found in PSMPATH or must be "dbdoctor"ed.
+
+#28  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFN16_3X3' for device 'TPS62133_0_QFN16_3X3_TPS62133' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           d:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           d:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           d:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           d:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           d:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Apr 5 17:12:44 2015
+   DESIGN NAME : 'EDISONCTRL'
+   PACKAGING ON Sep 10 2012 04:46:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 28 warnings detected
+
+cpu time      0:00:29
+elapsed time  0:00:00
+

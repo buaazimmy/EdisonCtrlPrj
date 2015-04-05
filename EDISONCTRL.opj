@@ -11,8 +11,51 @@
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420"))
-  (Folder "Outputs")
+    (DOCKING_POSITION "59420")
+    (Board_sim_option "VHDL_flow")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "TRUE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\EDISONCTRL.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
@@ -21,43 +64,115 @@
       (Path "Design Resources" ".\edisonctrl.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\power_mnt.olb")
-      (Select "Design Resources" ".\edisonctrl.dsn" "SCHEMATIC1"))
-    (HierarchyView)
+      (Path "Outputs")
+      (Select "Design Resources" ".\edisonctrl.dsn"))
+    (HierarchyView
+      (Path "SCHEMATIC1")
+      (Select "SCHEMATIC1" "J2 (CON2_HDR)"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 339 0 937"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 375 0 947"))
       (Tab 0))
     (Doc
-      (Type "COrSchematicDoc")
+      (Type "TextFile")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1186 50 529")
-        (Scroll "0 338")
-        (Zoom "120")
-        (Occurrence "/"))
-      (Path "C:\USERS\ADMINISTRATOR\DESKTOP\EDISONCTRLPRJ\EDISONCTRL.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "3. USB_OTG"))
+        (Placement "44 0 1 -1 -1 -8 -30 29 996 29 570"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRLPRJ\allegro\pstchip.dat")
+      (Scroll "0"))
+    (Doc
+      (Type "TextFile")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 232 1199 232 773"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRLPRJ\allegro\pstxprt.dat")
+      (Scroll "0"))
+    (Doc
+      (Type "TextFile")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 967 0 541"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRLPRJ\allegro\pstxnet.dat")
+      (Scroll "0"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 116 1083 116 657")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "4173 2187")
+        (Zoom "1008"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRLPRJ\POWER_MNT.OLB")
+      (Package "CON2,HDR,TH,0.1in,A91829-020"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 145 1112 145 686")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3078 1593")
+        (Zoom "762"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRLPRJ\POWER_MNT.OLB")
+      (Package "CON3,HDR,TH,0.1in,A91829-009"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 174 1141 174 715")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1145 574")
+        (Zoom "348"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRLPRJ\POWER_MNT.OLB")
+      (Package "CON10,1X10,0.1,0.093,E74918-001"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 1136 0 514")
-        (Scroll "0 0")
+        (Placement "44 2 3 -1 -1 -8 -30 58 1439 58 571")
+        (Scroll "442 361")
+        (Zoom "122")
+        (Occurrence "/"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRLPRJ\EDISONCTRL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "1. POWER SUPPLIES"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 174 1266 174 691")
+        (Scroll "0 110")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\USERS\ADMINISTRATOR\DESKTOP\EDISONCTRLPRJ\EDISONCTRL.DSN")
+      (Path "H:\CODES\HARDWARE\EDISONCTRLPRJ\EDISONCTRL.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "1. POWER SUPPLIES")))
-  (MPSSessionName "Administrator")
+      (Page "2. I/O CONNECTIONS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 203 1295 203 720")
+        (Scroll "0 0")
+        (Zoom "126")
+        (Occurrence "/"))
+      (Path "H:\CODES\HARDWARE\EDISONCTRLPRJ\EDISONCTRL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3. USB_OTG")))
+  (MPSSessionName "Zimmy")
   (PartMRUSelector
-    (XSTR,BSS138,FET,NCH,SOT23
-      (FullPartName "XSTR,BSS138,FET,NCH,SOT23.Normal")
+    (RESD,0201,1%,1/20W,562
+      (FullPartName "RESD,0201,1%,1/20W,562.Normal")
       (LibraryName "C:\WORKING\UMG_LIB\UMG_LIB.OLB")
       (DeviceIndex "0"))
     (TPS62133_0
       (FullPartName "TPS62133_0.Normal")
       (LibraryName
          "C:\WORKING\MERRIFIELD\MERRIFIELD_PLATFORM_FFD_2P5_NO_CWS\SCHEMATICS\MERRIFIELD_EDISON_ARDUINO_3_17.DSN")
+      (DeviceIndex "0"))
+    (TPS62133
+      (FullPartName "TPS62133.Normal")
+      (LibraryName "H:\CODES\HARDWARE\EDISONCTRLPRJ\POWER_MNT.OLB")
+      (DeviceIndex "0"))
+    (XSTR,BSS138,FET,NCH,SOT23
+      (FullPartName "XSTR,BSS138,FET,NCH,SOT23.Normal")
+      (LibraryName "C:\WORKING\UMG_LIB\UMG_LIB.OLB")
       (DeviceIndex "0")))
   (LastUsedLibraryBrowseDirectory
      "C:\Users\Administrator\Desktop\EdisonCtrlPrj")
@@ -80,4 +195,5 @@
         (DisplayName ".\Indesign\sdf.cmd"))
       (File ".\indesign\detail.log"
         (Type "Report")
-        (DisplayName ".\Indesign\detail.log")))))
+        (DisplayName ".\Indesign\detail.log"))))
+  (ISPCBBASICLICENSE "false"))

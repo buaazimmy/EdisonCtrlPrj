@@ -1,0 +1,83 @@
+\t (00:54:11) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:54:11)     Journal start - Sun Apr 05 17:12:10 2015
+\t (00:54:11)         Host=ZIM User=Zimmy Pid=13740 CPUs=8
+\t (00:54:11) 
+\d (00:54:11) Database opened: H:/Codes/Hardware/EdisonCtrlPrj/allegro/EDISONCTRL.brd
+\i (00:54:11) generaledit 
+\i (00:54:12) zoom in 1 
+\i (00:54:12) setwindow pcb
+\i (00:54:12) zoom in -318.52 165.24
+\i (00:54:12) trapsize 998
+\i (00:54:14) quickplace 
+\i (00:54:16) setwindow form.quickplc
+\i (00:54:16) FORM quickplc place  
+\e (00:54:16) Component(s) could not be placed.  See logfile for errors.
+\i (00:54:16) FORM quickplc place  
+\e (00:54:16) Component(s) could not be placed.  See logfile for errors.
+\i (00:54:17) FORM quickplc viewlog  
+\i (00:54:39) setwindow text
+\i (00:54:39) close 
+\i (00:54:41) setwindow form.quickplc
+\i (00:54:41) FORM quickplc cancel  
+\i (00:54:41) setwindow pcb
+\i (00:54:41) generaledit 
+\i (00:54:43) netin 
+\i (00:54:45) setwindow form.niparams
+\i (00:54:45) FORM niparams import  
+\t (00:54:45) Starting Cadence Logic Import...
+\w (00:54:45) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:54:45) Opening existing design...
+\i (00:54:45) setwindow pcb
+\i (00:54:45) trapsize 998
+\i (00:54:46) generaledit 
+\i (00:54:49) setwindow text
+\i (00:54:49) close 
+\i (00:54:51) setwindow pcb
+\i (00:54:51) quickplace 
+\i (00:54:52) setwindow form.quickplc
+\i (00:54:52) FORM quickplc place  
+\w (00:54:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:54:52) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\w (00:54:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:54:52) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\e (00:54:52) Component(s) could not be placed.  See logfile for errors.
+\i (00:54:53) FORM quickplc viewlog  
+\i (00:54:59) setwindow text
+\i (00:54:59) close 
+\i (00:54:59) setwindow form.quickplc
+\i (00:54:59) FORM quickplc cancel  
+\i (00:55:00) setwindow pcb
+\i (00:55:00) generaledit 
+\i (00:55:00) pick grid 365.98 532.44
+\t (00:55:00) last pick:  370.00  530.00
+\i (00:55:01) save 
+\i (00:55:02) fillin yes 
+\i (00:55:03) generaledit 
+\i (00:55:03) pick grid -97.00 205.15
+\t (00:55:03) last pick:  -100.00  210.00
+\i (00:55:04) save 
+\i (00:55:05) fillin yes 
+\i (00:55:05) generaledit 
+\i (00:55:11) quickplace 
+\i (00:55:12) setwindow form.quickplc
+\i (00:55:12) FORM quickplc unplace  
+\i (00:55:13) FORM quickplc unplace  
+\i (00:55:13) FORM quickplc unplace  
+\i (00:55:13) FORM quickplc unplace  
+\i (00:55:13) FORM quickplc unplace  
+\i (00:55:14) FORM quickplc unplace  
+\i (00:55:14) FORM quickplc unplace  
+\i (00:55:14) FORM quickplc unplace  
+\i (00:55:16) FORM quickplc done  
+\i (00:55:16) setwindow pcb
+\i (00:55:16) generaledit 
+\i (00:58:52) trapsize 1381
+\i (00:58:52) trapsize 653
+\i (00:58:53) open 
+\e (00:58:53) Do you want to save the changes you made to H:/Codes/Hardware/EdisonCtrlPrj/allegro/EDISONCTRL.brd?
+\i (00:58:55) fillin no 
+\i (00:59:05) fillin "H:\Codes\Hardware\EdisonCtrlPrj\symbols\CON2.DRA"
+\i (00:59:05) cd "H:\Codes\Hardware\EdisonCtrlPrj\symbols"
+\t (00:59:05) Opening existing design...
+\i (00:59:05) trapsize 61
+\t (00:59:05)     Journal end - Sun Apr 05 17:17:04 2015
