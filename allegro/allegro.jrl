@@ -1,99 +1,530 @@
-\t (01:04:22) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (01:04:22)     Journal start - Sun Apr 05 17:22:21 2015
-\t (01:04:22)         Host=ZIM User=Zimmy Pid=13740 CPUs=8
-\t (01:04:22) 
-\d (01:04:22) Database opened: H:/Codes/Hardware/EdisonCtrlPrj/allegro/EDISONCTRL.brd
-\i (01:04:22) generaledit 
-\i (01:04:24) quickplace 
-\i (01:04:26) setwindow form.quickplc
-\i (01:04:26) FORM quickplc place  
-\w (01:04:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (01:04:26) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
-\w (01:04:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (01:04:26) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
-\e (01:04:26) Component(s) could not be placed.  See logfile for errors.
-\i (01:04:31) FORM quickplc done  
-\i (01:04:31) setwindow pcb
-\i (01:04:31) generaledit 
-\i (01:04:32) zoom out 1 
-\i (01:04:32) setwindow pcb
-\i (01:04:32) zoom out -429.68 -100.46
-\i (01:04:32) trapsize 1932
-\i (01:04:32) zoom out 1 
-\i (01:04:32) setwindow pcb
-\i (01:04:32) zoom out -406.50 -77.28
-\i (01:04:32) trapsize 3864
-\i (01:04:32) zoom in 1 
-\i (01:04:32) setwindow pcb
-\i (01:04:32) zoom in -1953.02 -927.50
-\i (01:04:32) trapsize 1932
-\i (01:04:32) zoom in 1 
-\i (01:04:32) setwindow pcb
-\i (01:04:32) zoom in -1551.18 -970.00
-\i (01:04:32) trapsize 966
-\i (01:04:33) zoom out 1 
-\i (01:04:33) setwindow pcb
-\i (01:04:33) zoom out -451.93 -463.84
-\i (01:04:33) trapsize 1932
-\i (01:04:33) zoom out 1 
-\i (01:04:33) setwindow pcb
-\i (01:04:33) zoom out -448.05 -459.97
-\i (01:04:33) trapsize 3864
-\i (01:04:33) zoom in 1 
-\i (01:04:33) setwindow pcb
-\i (01:04:33) zoom in 63.89 189.15
-\i (01:04:33) trapsize 1932
-\i (01:04:33) zoom in 1 
-\i (01:04:33) setwindow pcb
-\i (01:04:33) zoom in 52.30 200.74
-\i (01:04:33) trapsize 966
-\i (01:04:37) quickplace 
-\i (01:04:38) setwindow form.quickplc
-\i (01:04:38) FORM quickplc done  
-\i (01:04:38) setwindow pcb
-\i (01:04:38) generaledit 
-\i (01:04:40) quickplace 
-\i (01:04:41) setwindow form.quickplc
-\i (01:04:41) FORM quickplc place  
-\w (01:04:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (01:04:41) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
-\w (01:04:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (01:04:41) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
-\e (01:04:41) Component(s) could not be placed.  See logfile for errors.
-\i (01:04:42) FORM quickplc viewlog  
-\i (01:04:43) setwindow pcb
-\i (01:04:43) zoom out 1 
-\i (01:04:43) setwindow pcb
-\i (01:04:43) zoom out 454.14 51.98
-\i (01:04:43) trapsize 1932
-\i (01:04:43) zoom out 1 
-\i (01:04:43) setwindow pcb
-\i (01:04:43) zoom out 454.15 51.99
-\i (01:04:43) trapsize 3864
-\i (01:04:43) zoom out 1 
-\i (01:04:43) setwindow pcb
-\i (01:04:43) zoom out 1648.05 51.98
-\i (01:04:43) trapsize 5221
-\i (01:04:43) zoom out 1 
-\i (01:04:43) setwindow pcb
-\i (01:04:43) zoom out 4159.09 -10.44
-\i (01:04:43) trapsize 5221
-\i (01:04:43) zoom in 1 
-\i (01:04:43) setwindow pcb
-\i (01:04:43) zoom in 4159.09 -10.44
-\i (01:04:43) trapsize 2611
-\i (01:04:43) zoom in 1 
-\i (01:04:43) setwindow pcb
-\i (01:04:43) zoom in 670.46 -10.44
-\i (01:04:43) trapsize 1305
-\i (01:04:50) setwindow text
-\i (01:04:50) close 
-\i (01:04:51) setwindow form.quickplc
-\i (01:04:51) FORM quickplc cancel  
-\i (01:04:51) setwindow pcb
-\i (01:04:51) generaledit 
-\i (01:04:52) save 
-\i (01:04:54) fillin yes 
-\i (01:04:54) generaledit 
-\i (01:04:57) exit 
-\t (01:04:57)     Journal end - Sun Apr 05 17:22:56 2015
+\t (00:00:10) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:10)     Journal start - Sun Apr 05 10:27:51 2015
+\t (00:00:10)         Host=ZIM User=Administrator Pid=5796 CPUs=4
+\t (00:00:10) 
+\d (00:00:10) Database opened: C:/Users/Administrator/Desktop/EdisonCtrlPrj/allegro/EDISONCTRL.brd
+\i (00:00:10) generaledit 
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -199.69 -100.80
+\i (00:00:11) trapsize 753
+\i (00:00:14) netin 
+\i (00:00:15) setwindow form.niparams
+\i (00:00:15) FORM niparams import  
+\t (00:00:15) Starting Cadence Logic Import...
+\e (00:00:16) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (00:00:41) setwindow text
+\i (00:00:41) close 
+\i (00:00:42) setwindow form.niparams
+\i (00:00:42) FORM niparams browse  
+\i (00:00:50) fillin "C:/Users/Administrator/Desktop/EdisonCtrlPrj/allegro"
+\i (00:00:51) FORM niparams import  
+\t (00:00:51) Starting Cadence Logic Import...
+\w (00:00:52) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:00:52) Opening existing design...
+\i (00:00:52) setwindow pcb
+\i (00:00:52) trapsize 753
+\i (00:00:53) generaledit 
+\i (00:00:59) setwindow text
+\i (00:00:59) close 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) quickplace 
+\i (00:01:02) setwindow form.quickplc
+\i (00:01:02) FORM quickplc place  
+\w (00:01:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:01:02) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\w (00:01:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:01:02) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\e (00:01:02) Component(s) could not be placed.  See logfile for errors.
+\i (00:01:05) FORM quickplc viewlog  
+\i (00:01:14) setwindow text
+\i (00:01:14) close 
+\i (00:01:15) setwindow form.quickplc
+\i (00:01:15) FORM quickplc cancel  
+\i (00:01:15) setwindow pcb
+\i (00:01:15) generaledit 
+\i (00:01:16) save 
+\i (00:01:17) fillin yes 
+\i (00:01:18) generaledit 
+\i (00:01:27) xhilite 
+\i (00:01:27) xrefdes J1 
+\t (00:01:27) Can not select unplaced component J1.
+\t (00:01:27) Can not select unplaced component J1.
+\i (00:01:27) xname_flush 
+\i (00:01:27) done 
+\i (00:01:27) generaledit 
+\i (00:01:53) xdehilite 
+\i (00:01:53) xrefdes J1 
+\t (00:01:53) Can not select unplaced component J1.
+\t (00:01:53) Can not select unplaced component J1.
+\i (00:01:53) xname_flush 
+\i (00:01:53) done 
+\i (00:01:53) xhilite 
+\i (00:01:53) xrefdes J2 
+\t (00:01:53) Can not select unplaced component J2.
+\t (00:01:53) Can not select unplaced component J2.
+\i (00:01:53) xname_flush 
+\i (00:01:53) done 
+\i (00:01:53) generaledit 
+\i (00:03:14) netin 
+\i (00:03:16) setwindow form.niparams
+\i (00:03:16) FORM niparams import  
+\t (00:03:16) Starting Cadence Logic Import...
+\w (00:03:17) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:03:17) Opening existing design...
+\i (00:03:17) setwindow pcb
+\i (00:03:17) trapsize 753
+\i (00:03:18) generaledit 
+\i (00:03:26) setwindow text
+\i (00:03:26) close 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) quickplace 
+\i (00:03:31) setwindow form.quickplc
+\i (00:03:31) FORM quickplc place  
+\w (00:03:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:03:31) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\w (00:03:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:03:31) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\e (00:03:31) Component(s) could not be placed.  See logfile for errors.
+\i (00:03:34) FORM quickplc viewlog  
+\i (00:03:44) setwindow text
+\i (00:03:44) close 
+\i (00:03:45) setwindow form.quickplc
+\i (00:03:45) FORM quickplc cancel  
+\i (00:03:45) setwindow pcb
+\i (00:03:45) generaledit 
+\i (00:03:45) save 
+\i (00:03:47) fillin yes 
+\i (00:03:47) generaledit 
+\i (00:03:51) enved 
+\i (00:03:52) generaledit 
+\i (00:03:58) setwindow form.prfedit
+\i (00:03:58) FORM prfedit treelist  Paths 
+\i (00:03:59) FORM prfedit treelist  Library Paths 
+\i (00:04:01) FORM prfedit psmpath  
+\i (00:04:37) FORM prfedit apply  
+\i (00:04:37) FORM prfedit done  
+\i (00:04:40) setwindow pcb
+\i (00:04:40) quickplace 
+\i (00:04:41) setwindow form.quickplc
+\i (00:04:41) FORM quickplc place  
+\w (00:04:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:04:41) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\w (00:04:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:04:41) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\e (00:04:41) Component(s) could not be placed.  See logfile for errors.
+\i (00:04:42) FORM quickplc place  
+\w (00:04:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:04:42) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\w (00:04:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:04:42) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\e (00:04:42) Component(s) could not be placed.  See logfile for errors.
+\i (00:04:42) FORM quickplc place  
+\w (00:04:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:04:42) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\w (00:04:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:04:42) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\e (00:04:42) Component(s) could not be placed.  See logfile for errors.
+\i (00:04:43) FORM quickplc unplace  
+\i (00:04:44) FORM quickplc place  
+\w (00:04:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:04:44) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\w (00:04:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:04:44) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\e (00:04:44) Component(s) could not be placed.  See logfile for errors.
+\i (00:04:44) FORM quickplc place  
+\w (00:04:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:04:44) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\w (00:04:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:04:44) ERROR(SPMHSY-24): 'P1_5D1_0S', not found in search path.
+\e (00:04:44) Component(s) could not be placed.  See logfile for errors.
+\i (00:04:45) FORM quickplc viewlog  
+\i (00:04:50) setwindow text
+\i (00:04:50) close 
+\i (00:04:51) setwindow form.quickplc
+\i (00:04:51) FORM quickplc cancel  
+\i (00:04:51) setwindow pcb
+\i (00:04:51) generaledit 
+\i (00:04:51) pick grid -389.38 346.33
+\t (00:04:51) last pick:  -390.00  350.00
+\i (00:04:51) save 
+\i (00:04:53) fillin yes 
+\i (00:04:53) generaledit 
+\i (00:43:45) pick grid -228.30 28.67
+\t (00:43:45) last pick:  -230.00  30.00
+\i (00:58:41) xhilite 
+\i (00:58:41) xrefdes Cr1 
+\t (00:58:41) Can not select unplaced component CR1.
+\t (00:58:41) Can not select unplaced component CR1.
+\i (00:58:41) xname_flush 
+\i (00:58:41) done 
+\i (00:58:41) generaledit 
+\i (00:59:49) xdehilite 
+\i (00:59:49) xrefdes Cr1 
+\t (00:59:49) Can not select unplaced component CR1.
+\t (00:59:49) Can not select unplaced component CR1.
+\i (00:59:49) xname_flush 
+\i (00:59:49) done 
+\i (00:59:49) xhilite 
+\i (00:59:49) xrefdes R1 
+\t (00:59:49) Can not select unplaced component R1.
+\t (00:59:49) Can not select unplaced component R1.
+\i (00:59:49) xname_flush 
+\i (00:59:49) done 
+\i (00:59:49) generaledit 
+\i (01:01:35) xhilite 
+\i (01:01:35) xNet Usb_Dn 
+\i (01:01:35) xname_flush 
+\t (01:01:35) Net "Usb_Dn" highlighted.
+\i (01:01:35) done 
+\i (01:01:35) generaledit 
+\i (01:04:53) xdehilite 
+\i (01:04:53) xrefdes R1 
+\t (01:04:53) Can not select unplaced component R1.
+\t (01:04:53) Can not select unplaced component R1.
+\i (01:04:53) xname_flush 
+\i (01:04:53) done 
+\i (01:04:53) xhilite 
+\i (01:04:53) xNet Vbus 
+\i (01:04:53) xname_flush 
+\t (01:04:53) Net "Vbus" highlighted.
+\i (01:04:53) done 
+\i (01:04:53) generaledit 
+\i (01:05:11) xdehilite 
+\i (01:05:11) xNet Usb_Dn 
+\i (01:05:11) xname_flush 
+\t (01:05:11) Net "Usb_Dn" dehighlighted.
+\i (01:05:11) done 
+\i (01:05:11) xhilite 
+\i (01:05:11) xNet Vbus 
+\i (01:05:11) xname_flush 
+\t (01:05:11) Net "Vbus" highlighted.
+\i (01:05:11) done 
+\i (01:05:11) generaledit 
+\i (01:05:41) xdehilite 
+\i (01:05:41) xNet Vbus 
+\i (01:05:41) xname_flush 
+\t (01:05:41) Net "Vbus" dehighlighted.
+\i (01:05:41) done 
+\i (01:05:41) xhilite 
+\i (01:05:41) xNet N03602 
+\i (01:05:41) xname_flush 
+\t (01:05:41) Net "N03602" highlighted.
+\i (01:05:41) done 
+\i (01:05:41) generaledit 
+\i (01:05:52) xdehilite 
+\i (01:05:52) xNet N03602 
+\i (01:05:52) xname_flush 
+\t (01:05:52) Net "N03602" dehighlighted.
+\i (01:05:52) done 
+\i (01:05:52) xhilite 
+\i (01:05:52) xNet 5V_Sys 
+\i (01:05:52) xname_flush 
+\t (01:05:52) Net "5V_Sys" highlighted.
+\i (01:05:52) done 
+\i (01:05:52) generaledit 
+\i (01:05:57) xdehilite 
+\i (01:05:57) xNet 5V_Sys 
+\i (01:05:57) xname_flush 
+\t (01:05:57) Net "5V_Sys" dehighlighted.
+\i (01:05:57) done 
+\i (01:05:57) generaledit 
+\i (01:06:36) xdehilite 
+\i (01:06:36) xNet Vbus 
+\i (01:06:36) xname_flush 
+\t (01:06:36) Net "Vbus" dehighlighted.
+\i (01:06:36) done 
+\i (01:06:36) generaledit 
+\i (01:11:38) xhilite 
+\i (01:11:38) xNet Gp109 
+\i (01:11:38) xname_flush 
+\t (01:11:38) Net "Gp109" highlighted.
+\i (01:11:38) done 
+\i (01:11:38) generaledit 
+\i (01:11:38) xdehilite 
+\i (01:11:38) xNet Gp109 
+\i (01:11:38) xname_flush 
+\t (01:11:38) Net "Gp109" dehighlighted.
+\i (01:11:38) done 
+\i (01:11:38) xhilite 
+\i (01:11:38) xNet Gp109 
+\i (01:11:38) xname_flush 
+\t (01:11:38) Net "Gp109" highlighted.
+\i (01:11:38) done 
+\i (01:11:38) generaledit 
+\i (01:11:40) xdehilite 
+\i (01:11:40) xNet Gp109 
+\i (01:11:40) xname_flush 
+\t (01:11:40) Net "Gp109" dehighlighted.
+\i (01:11:40) done 
+\i (01:11:40) xhilite 
+\i (01:11:40) xNet Gp109 
+\i (01:11:40) xname_flush 
+\t (01:11:40) Net "Gp109" highlighted.
+\i (01:11:40) done 
+\i (01:11:40) generaledit 
+\i (01:11:40) xdehilite 
+\i (01:11:40) xNet Gp109 
+\i (01:11:40) xname_flush 
+\t (01:11:40) Net "Gp109" dehighlighted.
+\i (01:11:40) done 
+\i (01:11:40) xhilite 
+\i (01:11:40) xNet Gp109 
+\i (01:11:40) xname_flush 
+\t (01:11:40) Net "Gp109" highlighted.
+\i (01:11:40) done 
+\i (01:11:40) generaledit 
+\i (01:11:41) xdehilite 
+\i (01:11:41) xNet Gp109 
+\i (01:11:41) xname_flush 
+\t (01:11:41) Net "Gp109" dehighlighted.
+\i (01:11:41) done 
+\i (01:11:41) xhilite 
+\i (01:11:41) xNet Gp109 
+\i (01:11:41) xname_flush 
+\t (01:11:41) Net "Gp109" highlighted.
+\i (01:11:41) done 
+\i (01:11:41) generaledit 
+\i (01:11:42) xdehilite 
+\i (01:11:42) xNet Gp109 
+\i (01:11:42) xname_flush 
+\t (01:11:42) Net "Gp109" dehighlighted.
+\i (01:11:42) done 
+\i (01:11:42) xhilite 
+\i (01:11:42) xNet Gp109 
+\i (01:11:42) xname_flush 
+\t (01:11:42) Net "Gp109" highlighted.
+\i (01:11:42) done 
+\i (01:11:42) generaledit 
+\i (01:11:43) xdehilite 
+\i (01:11:43) xNet Gp109 
+\i (01:11:43) xname_flush 
+\t (01:11:43) Net "Gp109" dehighlighted.
+\i (01:11:43) done 
+\i (01:11:43) xhilite 
+\i (01:11:43) xNet Gp109 
+\i (01:11:43) xname_flush 
+\t (01:11:43) Net "Gp109" highlighted.
+\i (01:11:43) done 
+\i (01:11:43) generaledit 
+\i (01:11:43) xdehilite 
+\i (01:11:43) xNet Gp109 
+\i (01:11:43) xname_flush 
+\t (01:11:43) Net "Gp109" dehighlighted.
+\i (01:11:43) done 
+\i (01:11:43) xhilite 
+\i (01:11:43) xNet Gp109 
+\i (01:11:43) xname_flush 
+\t (01:11:43) Net "Gp109" highlighted.
+\i (01:11:43) done 
+\i (01:11:43) generaledit 
+\i (01:11:43) xdehilite 
+\i (01:11:43) xNet Gp109 
+\i (01:11:43) xname_flush 
+\t (01:11:43) Net "Gp109" dehighlighted.
+\i (01:11:43) done 
+\i (01:11:43) xhilite 
+\i (01:11:43) xNet Gp109 
+\i (01:11:43) xname_flush 
+\t (01:11:43) Net "Gp109" highlighted.
+\i (01:11:43) done 
+\i (01:11:43) generaledit 
+\i (01:11:44) xdehilite 
+\i (01:11:44) xNet Gp109 
+\i (01:11:44) xname_flush 
+\t (01:11:44) Net "Gp109" dehighlighted.
+\i (01:11:44) done 
+\i (01:11:44) xhilite 
+\i (01:11:44) xNet Gp109 
+\i (01:11:44) xname_flush 
+\t (01:11:44) Net "Gp109" highlighted.
+\i (01:11:44) done 
+\i (01:11:44) generaledit 
+\i (01:11:52) xhilite 
+\i (01:11:52) xrefdes R12 
+\t (01:11:52) Can not select unplaced component R12.
+\t (01:11:52) Can not select unplaced component R12.
+\i (01:11:52) xname_flush 
+\i (01:11:52) done 
+\i (01:11:52) generaledit 
+\i (01:11:54) xdehilite 
+\i (01:11:54) xrefdes R12 
+\t (01:11:54) Can not select unplaced component R12.
+\t (01:11:54) Can not select unplaced component R12.
+\i (01:11:54) xname_flush 
+\i (01:11:54) done 
+\i (01:11:54) xhilite 
+\i (01:11:54) xrefdes R12 
+\t (01:11:54) Can not select unplaced component R12.
+\t (01:11:54) Can not select unplaced component R12.
+\i (01:11:54) xname_flush 
+\i (01:11:54) done 
+\i (01:11:54) generaledit 
+\i (01:12:15) xhilite 
+\i (01:12:15) xrefdes R12 
+\t (01:12:15) Can not select unplaced component R12.
+\t (01:12:15) Can not select unplaced component R12.
+\i (01:12:15) xname_flush 
+\i (01:12:15) done 
+\i (01:12:15) generaledit 
+\i (01:12:53) xhilite 
+\i (01:12:53) xNet Usb_Dn 
+\i (01:12:53) xname_flush 
+\t (01:12:53) Net "Usb_Dn" highlighted.
+\i (01:12:53) done 
+\i (01:12:53) generaledit 
+\i (01:12:54) xdehilite 
+\i (01:12:54) xNet Usb_Dn 
+\i (01:12:54) xname_flush 
+\t (01:12:54) Net "Usb_Dn" dehighlighted.
+\i (01:12:54) done 
+\i (01:12:54) xhilite 
+\i (01:12:54) xNet Usb_Dn 
+\i (01:12:54) xname_flush 
+\t (01:12:54) Net "Usb_Dn" highlighted.
+\i (01:12:54) done 
+\i (01:12:54) generaledit 
+\i (01:12:56) xdehilite 
+\i (01:12:56) xNet Usb_Dn 
+\i (01:12:56) xname_flush 
+\t (01:12:56) Net "Usb_Dn" dehighlighted.
+\i (01:12:56) done 
+\i (01:12:56) xhilite 
+\i (01:12:56) xNet Usb_Dn 
+\i (01:12:56) xname_flush 
+\t (01:12:56) Net "Usb_Dn" highlighted.
+\i (01:12:56) done 
+\i (01:12:56) generaledit 
+\i (01:12:57) xdehilite 
+\i (01:12:57) xNet Usb_Dn 
+\i (01:12:57) xname_flush 
+\t (01:12:57) Net "Usb_Dn" dehighlighted.
+\i (01:12:57) done 
+\i (01:12:57) xhilite 
+\i (01:12:57) xNet Usb_Dn 
+\i (01:12:57) xname_flush 
+\t (01:12:57) Net "Usb_Dn" highlighted.
+\i (01:12:57) done 
+\i (01:12:57) generaledit 
+\i (01:13:00) xdehilite 
+\i (01:13:00) xNet Usb_Dn 
+\i (01:13:00) xname_flush 
+\t (01:13:00) Net "Usb_Dn" dehighlighted.
+\i (01:13:00) done 
+\i (01:13:00) xhilite 
+\i (01:13:00) xNet Usb_Dn 
+\i (01:13:00) xname_flush 
+\t (01:13:00) Net "Usb_Dn" highlighted.
+\i (01:13:00) done 
+\i (01:13:00) generaledit 
+\i (01:13:01) xdehilite 
+\i (01:13:01) xNet Usb_Dn 
+\i (01:13:01) xname_flush 
+\t (01:13:01) Net "Usb_Dn" dehighlighted.
+\i (01:13:01) done 
+\i (01:13:01) xhilite 
+\i (01:13:01) xNet Usb_Dn 
+\i (01:13:01) xname_flush 
+\t (01:13:01) Net "Usb_Dn" highlighted.
+\i (01:13:01) done 
+\i (01:13:01) generaledit 
+\i (01:13:38) xdehilite 
+\i (01:13:38) xNet Usb_Dn 
+\i (01:13:38) xname_flush 
+\t (01:13:38) Net "Usb_Dn" dehighlighted.
+\i (01:13:38) done 
+\i (01:13:38) generaledit 
+\i (01:14:00) xhilite 
+\i (01:14:00) xNet 5V_Sys 
+\i (01:14:00) xname_flush 
+\t (01:14:00) Net "5V_Sys" highlighted.
+\i (01:14:00) done 
+\i (01:14:00) generaledit 
+\i (01:30:16) xhilite 
+\i (01:30:16) xrefdes U4 
+\t (01:30:16) Can not select unplaced component U4.
+\t (01:30:16) Can not select unplaced component U4.
+\i (01:30:16) xname_flush 
+\i (01:30:16) done 
+\i (01:30:16) generaledit 
+\i (01:30:17) xdehilite 
+\i (01:30:17) xrefdes U4 
+\t (01:30:17) Can not select unplaced component U4.
+\t (01:30:17) Can not select unplaced component U4.
+\i (01:30:17) xname_flush 
+\i (01:30:17) done 
+\i (01:30:17) generaledit 
+\i (01:30:18) xhilite 
+\i (01:30:18) xrefdes U4 
+\t (01:30:18) Can not select unplaced component U4.
+\t (01:30:18) Can not select unplaced component U4.
+\i (01:30:18) xname_flush 
+\i (01:30:18) done 
+\i (01:30:18) generaledit 
+\i (01:30:19) xdehilite 
+\i (01:30:19) xrefdes U4 
+\t (01:30:19) Can not select unplaced component U4.
+\t (01:30:19) Can not select unplaced component U4.
+\i (01:30:19) xname_flush 
+\i (01:30:19) done 
+\i (01:30:19) generaledit 
+\i (01:30:20) xhilite 
+\i (01:30:20) xrefdes U4 
+\t (01:30:20) Can not select unplaced component U4.
+\t (01:30:20) Can not select unplaced component U4.
+\i (01:30:20) xname_flush 
+\i (01:30:20) done 
+\i (01:30:20) generaledit 
+\i (01:30:21) xdehilite 
+\i (01:30:21) xrefdes U4 
+\t (01:30:21) Can not select unplaced component U4.
+\t (01:30:21) Can not select unplaced component U4.
+\i (01:30:21) xname_flush 
+\i (01:30:21) done 
+\i (01:30:21) generaledit 
+\i (01:31:00) xhilite 
+\i (01:31:00) xrefdes U4 
+\t (01:31:00) Can not select unplaced component U4.
+\t (01:31:00) Can not select unplaced component U4.
+\i (01:31:00) xname_flush 
+\i (01:31:00) done 
+\i (01:31:00) generaledit 
+\i (01:31:04) xdehilite 
+\i (01:31:05) xrefdes U4 
+\t (01:31:05) Can not select unplaced component U4.
+\t (01:31:05) Can not select unplaced component U4.
+\i (01:31:05) xname_flush 
+\i (01:31:05) done 
+\i (01:31:05) generaledit 
+\i (01:31:21) xhilite 
+\i (01:31:21) xrefdes U4 
+\t (01:31:21) Can not select unplaced component U4.
+\t (01:31:21) Can not select unplaced component U4.
+\i (01:31:21) xname_flush 
+\i (01:31:21) done 
+\i (01:31:21) generaledit 
+\i (01:31:27) xdehilite 
+\i (01:31:27) xrefdes U4 
+\t (01:31:27) Can not select unplaced component U4.
+\t (01:31:27) Can not select unplaced component U4.
+\i (01:31:27) xname_flush 
+\i (01:31:27) done 
+\i (01:31:27) generaledit 
+\i (01:32:53) xhilite 
+\i (01:32:53) xrefdes U4 
+\t (01:32:53) Can not select unplaced component U4.
+\t (01:32:53) Can not select unplaced component U4.
+\i (01:32:53) xname_flush 
+\i (01:32:53) done 
+\i (01:32:53) generaledit 
+\i (01:33:10) xdehilite 
+\i (01:33:10) xrefdes U4 
+\t (01:33:10) Can not select unplaced component U4.
+\t (01:33:10) Can not select unplaced component U4.
+\i (01:33:10) xname_flush 
+\i (01:33:10) done 
+\i (01:33:11) generaledit 
+\i (03:24:53) exit 
+\e (03:24:53) Do you want to save the changes you made to C:/Users/Administrator/Desktop/EdisonCtrlPrj/allegro/EDISONCTRL.brd?
+\i (03:24:55) fillin yes 
+\t (03:24:55)     Journal end - Sun Apr 05 13:52:36 2015

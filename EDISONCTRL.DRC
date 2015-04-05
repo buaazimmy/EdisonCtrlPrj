@@ -1,0 +1,102 @@
+Date and Time : 04/05/15 11:02:01
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict SW1,B  Bidirectional Connected to Power
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (162.56, 190.50) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections RCVR_MODE 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 74.93) 
+WARNING(ORCAP-1600): Net has fewer than two connections MSIC_SLPCLK_2 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (152.40, 44.45) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP110 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (154.94, 102.87) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP12_PWM0 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 80.01) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP109 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (154.94, 105.41) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP48 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 74.93) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP77 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 110.49) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP14 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 95.25) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP45 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 67.31) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP28 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 95.25) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP15 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 87.63) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP134 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 62.23) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP19 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 87.63) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP78 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 107.95) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP84 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 90.17) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP40 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 100.33) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP13_PWM1 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 77.47) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP43 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 105.41) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP128 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 118.11) 
+WARNING(ORCAP-1600): Net has fewer than two connections OSC_CLK_OUT_0 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (154.94, 120.65) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP80 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 118.11) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP46 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 69.85) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP115 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (154.94, 107.95) 
+WARNING(ORCAP-1600): Net has fewer than two connections V_VBAT_BKUP 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (152.40, 64.77) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP49 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 77.47) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP114 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 110.49) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP135 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 69.85) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP183_PWM3 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 85.09) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP44 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 64.77) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP20 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 90.17) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP129 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (154.94, 115.57) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP131 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 92.71) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP79 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 113.03) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP83 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 120.65) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP47 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 72.39) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP42 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 97.79) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP165 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 67.31) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP81 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 123.19) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP82 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 115.57) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP111 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (154.94, 100.33) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP27 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 92.71) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP41 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (92.71, 102.87) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP182_PWM2 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 82.55) 
+WARNING(ORCAP-1600): Net has fewer than two connections GP130 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 113.03) 
+WARNING(ORCAP-1600): Net has fewer than two connections FW_RCVR 
+                    SCHEMATIC1, 2. I/O CONNECTIONS  (153.67, 123.19) 
+
+Checking For Unconnected Bus Nets

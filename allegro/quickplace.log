@@ -1,0 +1,251 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : EDISONCTRL.brd                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Apr 05 10:32:21 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  J3 / H42241-001 / 2X35_P4MM_BTB_AXT_SKT_MB
+ERROR:   Could not find symbol:  U4 / TPS62133_0_QFN16_3X3_TPS62133 / QFN16_3X3
+ERROR:   Could not find symbol:  U2 / IC,BQ24232,QFN16,USB_CHGR_LCC16 / LCC16_3X3MM_EP61
+ERROR:   Could not find symbol:  U3 / IC,MIC2039,USBPWRSWTCH_0_DFN6P_ / DFN6P_65M_2X2M
+ERROR:   Could not find symbol:  J4 / D23040-001 / CONN4_D23040001
+ERROR:   Could not find symbol:  C3 / CAP_C0201_0.1UF_C83410-014 / C0201
+ERROR:   Could not find symbol:  C5 / CAP_C0201_0.1UF_C83410-014 / C0201
+ERROR:   Could not find symbol:  C4 / C83410-017 / SMC0201
+ERROR:   Could not find symbol:  C6 / G21049-001 / SMC0402
+ERROR:   Could not find symbol:  C8 / 602433-091 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  C7 / G21049-001 / SMC0402
+ERROR:   Could not find symbol:  CR1 / H33384-001 / SCR_27X17MA
+ERROR:   Could not find symbol:  C9 / 602433-091 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  CR3 / E58800-001 / SOD123_67X106
+ERROR:   Could not find symbol:  DS1 / E54986-003 / SMLED0402
+ERROR:   Could not find symbol:  DS2 / E54986-003 / SMLED0402
+ERROR:   Could not find symbol:  C2 / 602433-081 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  CR2 / H33384-001 / SCR_27X17MA
+ERROR:   Could not find symbol:  L1 / G95926-001 / SML0805
+ERROR:   Could not find symbol:  C1 / G27061-002 / SMC0805
+ERROR:   Could not find symbol:  J2 / E81838-001 / CON2
+ERROR:   Could not find symbol:  R11 / C48657-118 / SMR0201
+ERROR:   Could not find symbol:  R12 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R14 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R17 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R2 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R5 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R6 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R13 / C80792-046 / SMR0201
+ERROR:   Could not find symbol:  R15 / C80792-011 / SMR0201
+ERROR:   Could not find symbol:  R18 / C48657-178 / SMR0201
+ERROR:   Could not find symbol:  R3 / R_0_R0201_0R_C80792-009 / R0201
+ERROR:   Could not find symbol:  R4 / RESD,0201,1%,1/20W,562_SMR0402_ / SMR0402
+ERROR:   Could not find symbol:  R8 / RESD,0201,1%,1/20W,562_SMR0402_ / SMR0402
+ERROR:   Could not find symbol:  R7 / R0603_R0201_1.62K_C48657-075 / R0201
+ERROR:   Could not find symbol:  R9 / C48657-013 / SMR0201
+ERROR:   Could not find symbol:  SW1 / D90553-001 / SSW2RPB
+ERROR:   Could not find symbol:  R1 / C65288-008 / SMR0402
+ERROR:   Could not find symbol:  R10 / C80792-014 / SMR0201
+ERROR:   Could not find symbol:  J1 / E81838-001 / CON2
+
+
+Placed 0 of 40 applicable (40 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  J3 / H42241-001 / 2X35_P4MM_BTB_AXT_SKT_MB
+ERROR:   Could not find symbol:  U4 / TPS62133_0_QFN16_3X3_TPS62133 / QFN16_3X3
+ERROR:   Could not find symbol:  U2 / IC,BQ24232,QFN16,USB_CHGR_LCC16 / LCC16_3X3MM_EP61
+ERROR:   Could not find symbol:  U3 / IC,MIC2039,USBPWRSWTCH_0_DFN6P_ / DFN6P_65M_2X2M
+ERROR:   Could not find symbol:  J4 / D23040-001 / CONN4_D23040001
+ERROR:   Could not find symbol:  C3 / CAP_C0201_0.1UF_C83410-014 / C0201
+ERROR:   Could not find symbol:  C5 / CAP_C0201_0.1UF_C83410-014 / C0201
+ERROR:   Could not find symbol:  C4 / C83410-017 / SMC0201
+ERROR:   Could not find symbol:  C6 / G21049-001 / SMC0402
+ERROR:   Could not find symbol:  C8 / 602433-091 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  C7 / G21049-001 / SMC0402
+ERROR:   Could not find symbol:  CR1 / H33384-001 / SCR_27X17MA
+ERROR:   Could not find symbol:  C9 / 602433-091 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  CR3 / E58800-001 / SOD123_67X106
+ERROR:   Could not find symbol:  DS1 / E54986-003 / SMLED0402
+ERROR:   Could not find symbol:  DS2 / E54986-003 / SMLED0402
+ERROR:   Could not find symbol:  C2 / 602433-081 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  CR2 / H33384-001 / SCR_27X17MA
+ERROR:   Could not find symbol:  L1 / G95926-001 / SML0805
+ERROR:   Could not find symbol:  C1 / G27061-002 / SMC0805
+ERROR:   Could not find symbol:  J2 / E81838-001 / CON2
+ERROR:   Could not find symbol:  R11 / C48657-118 / SMR0201
+ERROR:   Could not find symbol:  R12 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R14 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R17 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R2 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R5 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R6 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R13 / C80792-046 / SMR0201
+ERROR:   Could not find symbol:  R15 / C80792-011 / SMR0201
+ERROR:   Could not find symbol:  R18 / C48657-178 / SMR0201
+ERROR:   Could not find symbol:  R3 / R_0_R0201_0R_C80792-009 / R0201
+ERROR:   Could not find symbol:  R4 / RESD,0201,1%,1/20W,562_SMR0402_ / SMR0402
+ERROR:   Could not find symbol:  R8 / RESD,0201,1%,1/20W,562_SMR0402_ / SMR0402
+ERROR:   Could not find symbol:  R7 / R0603_R0201_1.62K_C48657-075 / R0201
+ERROR:   Could not find symbol:  R9 / C48657-013 / SMR0201
+ERROR:   Could not find symbol:  SW1 / D90553-001 / SSW2RPB
+ERROR:   Could not find symbol:  R1 / C65288-008 / SMR0402
+ERROR:   Could not find symbol:  R10 / C80792-014 / SMR0201
+ERROR:   Could not find symbol:  J1 / E81838-001 / CON2
+
+
+Placed 0 of 40 applicable (40 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  J3 / H42241-001 / 2X35_P4MM_BTB_AXT_SKT_MB
+ERROR:   Could not find symbol:  U4 / TPS62133_0_QFN16_3X3_TPS62133 / QFN16_3X3
+ERROR:   Could not find symbol:  U2 / IC,BQ24232,QFN16,USB_CHGR_LCC16 / LCC16_3X3MM_EP61
+ERROR:   Could not find symbol:  U3 / IC,MIC2039,USBPWRSWTCH_0_DFN6P_ / DFN6P_65M_2X2M
+ERROR:   Could not find symbol:  J4 / D23040-001 / CONN4_D23040001
+ERROR:   Could not find symbol:  C3 / CAP_C0201_0.1UF_C83410-014 / C0201
+ERROR:   Could not find symbol:  C5 / CAP_C0201_0.1UF_C83410-014 / C0201
+ERROR:   Could not find symbol:  C4 / C83410-017 / SMC0201
+ERROR:   Could not find symbol:  C6 / G21049-001 / SMC0402
+ERROR:   Could not find symbol:  C8 / 602433-091 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  C7 / G21049-001 / SMC0402
+ERROR:   Could not find symbol:  CR1 / H33384-001 / SCR_27X17MA
+ERROR:   Could not find symbol:  C9 / 602433-091 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  CR3 / E58800-001 / SOD123_67X106
+ERROR:   Could not find symbol:  DS1 / E54986-003 / SMLED0402
+ERROR:   Could not find symbol:  DS2 / E54986-003 / SMLED0402
+ERROR:   Could not find symbol:  C2 / 602433-081 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  CR2 / H33384-001 / SCR_27X17MA
+ERROR:   Could not find symbol:  L1 / G95926-001 / SML0805
+ERROR:   Could not find symbol:  C1 / G27061-002 / SMC0805
+ERROR:   Could not find symbol:  J2 / E81838-001 / CON2
+ERROR:   Could not find symbol:  R11 / C48657-118 / SMR0201
+ERROR:   Could not find symbol:  R12 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R14 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R17 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R2 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R5 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R6 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R13 / C80792-046 / SMR0201
+ERROR:   Could not find symbol:  R15 / C80792-011 / SMR0201
+ERROR:   Could not find symbol:  R18 / C48657-178 / SMR0201
+ERROR:   Could not find symbol:  R3 / R_0_R0201_0R_C80792-009 / R0201
+ERROR:   Could not find symbol:  R4 / RESD,0201,1%,1/20W,562_SMR0402_ / SMR0402
+ERROR:   Could not find symbol:  R8 / RESD,0201,1%,1/20W,562_SMR0402_ / SMR0402
+ERROR:   Could not find symbol:  R7 / R0603_R0201_1.62K_C48657-075 / R0201
+ERROR:   Could not find symbol:  R9 / C48657-013 / SMR0201
+ERROR:   Could not find symbol:  SW1 / D90553-001 / SSW2RPB
+ERROR:   Could not find symbol:  R1 / C65288-008 / SMR0402
+ERROR:   Could not find symbol:  R10 / C80792-014 / SMR0201
+ERROR:   Could not find symbol:  J1 / E81838-001 / CON2
+
+
+Placed 0 of 40 applicable (40 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  J3 / H42241-001 / 2X35_P4MM_BTB_AXT_SKT_MB
+ERROR:   Could not find symbol:  U4 / TPS62133_0_QFN16_3X3_TPS62133 / QFN16_3X3
+ERROR:   Could not find symbol:  U2 / IC,BQ24232,QFN16,USB_CHGR_LCC16 / LCC16_3X3MM_EP61
+ERROR:   Could not find symbol:  U3 / IC,MIC2039,USBPWRSWTCH_0_DFN6P_ / DFN6P_65M_2X2M
+ERROR:   Could not find symbol:  J4 / D23040-001 / CONN4_D23040001
+ERROR:   Could not find symbol:  C3 / CAP_C0201_0.1UF_C83410-014 / C0201
+ERROR:   Could not find symbol:  C5 / CAP_C0201_0.1UF_C83410-014 / C0201
+ERROR:   Could not find symbol:  C4 / C83410-017 / SMC0201
+ERROR:   Could not find symbol:  C6 / G21049-001 / SMC0402
+ERROR:   Could not find symbol:  C8 / 602433-091 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  C7 / G21049-001 / SMC0402
+ERROR:   Could not find symbol:  CR1 / H33384-001 / SCR_27X17MA
+ERROR:   Could not find symbol:  C9 / 602433-091 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  CR3 / E58800-001 / SOD123_67X106
+ERROR:   Could not find symbol:  DS1 / E54986-003 / SMLED0402
+ERROR:   Could not find symbol:  DS2 / E54986-003 / SMLED0402
+ERROR:   Could not find symbol:  C2 / 602433-081 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  CR2 / H33384-001 / SCR_27X17MA
+ERROR:   Could not find symbol:  L1 / G95926-001 / SML0805
+ERROR:   Could not find symbol:  C1 / G27061-002 / SMC0805
+ERROR:   Could not find symbol:  J2 / E81838-001 / CON2
+ERROR:   Could not find symbol:  R11 / C48657-118 / SMR0201
+ERROR:   Could not find symbol:  R12 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R14 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R17 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R2 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R5 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R6 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R13 / C80792-046 / SMR0201
+ERROR:   Could not find symbol:  R15 / C80792-011 / SMR0201
+ERROR:   Could not find symbol:  R18 / C48657-178 / SMR0201
+ERROR:   Could not find symbol:  R3 / R_0_R0201_0R_C80792-009 / R0201
+ERROR:   Could not find symbol:  R4 / RESD,0201,1%,1/20W,562_SMR0402_ / SMR0402
+ERROR:   Could not find symbol:  R8 / RESD,0201,1%,1/20W,562_SMR0402_ / SMR0402
+ERROR:   Could not find symbol:  R7 / R0603_R0201_1.62K_C48657-075 / R0201
+ERROR:   Could not find symbol:  R9 / C48657-013 / SMR0201
+ERROR:   Could not find symbol:  SW1 / D90553-001 / SSW2RPB
+ERROR:   Could not find symbol:  R1 / C65288-008 / SMR0402
+ERROR:   Could not find symbol:  R10 / C80792-014 / SMR0201
+ERROR:   Could not find symbol:  J1 / E81838-001 / CON2
+
+
+Placed 0 of 40 applicable (40 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  J3 / H42241-001 / 2X35_P4MM_BTB_AXT_SKT_MB
+ERROR:   Could not find symbol:  U4 / TPS62133_0_QFN16_3X3_TPS62133 / QFN16_3X3
+ERROR:   Could not find symbol:  U2 / IC,BQ24232,QFN16,USB_CHGR_LCC16 / LCC16_3X3MM_EP61
+ERROR:   Could not find symbol:  U3 / IC,MIC2039,USBPWRSWTCH_0_DFN6P_ / DFN6P_65M_2X2M
+ERROR:   Could not find symbol:  J4 / D23040-001 / CONN4_D23040001
+ERROR:   Could not find symbol:  C3 / CAP_C0201_0.1UF_C83410-014 / C0201
+ERROR:   Could not find symbol:  C5 / CAP_C0201_0.1UF_C83410-014 / C0201
+ERROR:   Could not find symbol:  C4 / C83410-017 / SMC0201
+ERROR:   Could not find symbol:  C6 / G21049-001 / SMC0402
+ERROR:   Could not find symbol:  C8 / 602433-091 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  C7 / G21049-001 / SMC0402
+ERROR:   Could not find symbol:  CR1 / H33384-001 / SCR_27X17MA
+ERROR:   Could not find symbol:  C9 / 602433-091 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  CR3 / E58800-001 / SOD123_67X106
+ERROR:   Could not find symbol:  DS1 / E54986-003 / SMLED0402
+ERROR:   Could not find symbol:  DS2 / E54986-003 / SMLED0402
+ERROR:   Could not find symbol:  C2 / 602433-081 / SMC0603_HI_VALUE
+ERROR:   Could not find symbol:  CR2 / H33384-001 / SCR_27X17MA
+ERROR:   Could not find symbol:  L1 / G95926-001 / SML0805
+ERROR:   Could not find symbol:  C1 / G27061-002 / SMC0805
+ERROR:   Could not find symbol:  J2 / E81838-001 / CON2
+ERROR:   Could not find symbol:  R11 / C48657-118 / SMR0201
+ERROR:   Could not find symbol:  R12 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R14 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R17 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R2 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R5 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R6 / C80792-002 / SMR0201
+ERROR:   Could not find symbol:  R13 / C80792-046 / SMR0201
+ERROR:   Could not find symbol:  R15 / C80792-011 / SMR0201
+ERROR:   Could not find symbol:  R18 / C48657-178 / SMR0201
+ERROR:   Could not find symbol:  R3 / R_0_R0201_0R_C80792-009 / R0201
+ERROR:   Could not find symbol:  R4 / RESD,0201,1%,1/20W,562_SMR0402_ / SMR0402
+ERROR:   Could not find symbol:  R8 / RESD,0201,1%,1/20W,562_SMR0402_ / SMR0402
+ERROR:   Could not find symbol:  R7 / R0603_R0201_1.62K_C48657-075 / R0201
+ERROR:   Could not find symbol:  R9 / C48657-013 / SMR0201
+ERROR:   Could not find symbol:  SW1 / D90553-001 / SSW2RPB
+ERROR:   Could not find symbol:  R1 / C65288-008 / SMR0402
+ERROR:   Could not find symbol:  R10 / C80792-014 / SMR0201
+ERROR:   Could not find symbol:  J1 / E81838-001 / CON2
+
+
+Placed 0 of 40 applicable (40 total) symbols.
+
+-----------------------------------------------------------------------
+
